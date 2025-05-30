@@ -33,7 +33,7 @@ A .NET Core Web API to manage blocked countries (permanent & temporary), validat
 ```json
 "IpApiSettings": {
   "BaseUrl": "https://api.ipgeolocation.io/ipgeo",
-  "ApiKey": "YOUR_API_KEY"
+  "ApiKey": "77f821fa8cce468eb7e6227ce9558d4e"
 }
 ```
 
